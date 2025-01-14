@@ -1,0 +1,25 @@
+.corpo{
+    background-color: var(--Bege);
+}
+
+.Navegação{
+    padding: 1% 0% 1% 15%;
+    display: flex;
+    gap: 80px;
+    
+}
+.Header{
+    font-size: 30px;
+    
+}
+.Title{
+    font-size: 50px;
+    padding: 0 0 1% 0%;
+    text-align: center;
+}
+.Title__sub{
+    font-size: 40px;
+    padding: 0 0 1% 0%;
+    text-align: center;
+}
+
