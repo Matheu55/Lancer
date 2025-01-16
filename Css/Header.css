@@ -1,0 +1,27 @@
+.corpo {
+  background-color: var(--Cor--principal);
+}
+
+.Navegação {
+  padding: 1% 0% 1% 15%;
+  display: flex;
+  gap: 80px;
+  color: var(--cor--terciaria);
+  transition: transform 1.3s ease;
+}
+.Navegação a:hover {
+    transform: scale(1.5);
+}
+  
+.Header {
+  font-size: 30px;
+}
+.Title {
+  font-size: 50px;
+  padding: 0 0 1% 0%;
+  text-align: center;
+  color: var(--cor--terciaria);
+}
+p{
+  word-spacing: 4px
+}
